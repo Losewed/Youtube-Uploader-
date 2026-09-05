@@ -1,2 +1,2 @@
 # Youtube-Uploader-
-Uploading videos with titles, tags, and descriptions via Google Drive and AI
+Uploading videos with titles, tags, and descriptions via Google Drive and local AI
