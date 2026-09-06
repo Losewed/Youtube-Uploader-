@@ -1,0 +1,8 @@
+# Обязательное: работа с Google Drive и YouTube
+google-api-python-client>=2.120.0
+google-auth>=2.28.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+
+# Таймзоны на Windows
+tzdata>=2024.1

@@ -1,0 +1,12 @@
+# Необязательное. Ставить только если нужно.
+#
+#   .\.venv\Scripts\python.exe -m pip install -r requirements-extra.txt
+#
+# faster-whisper — распознавание речи. Нужен, только если в config.json
+# включено metadata.transcribe. Тянет ctranslate2, onnxruntime, numpy и av;
+# под самые свежие версии Python готовых сборок может не быть.
+faster-whisper>=1.0.3
+
+# anthropic — генерация метаданных через Claude API. Нужен, только если
+# metadata.provider = claude, auto или local_first.
+anthropic>=1.0.0

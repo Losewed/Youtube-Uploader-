@@ -1,0 +1,42 @@
+{
+  "uploaded": {
+    "1UknAHd921O05hTOVuPPKwv6vKfrdgIkc": {
+      "video_id": "test",
+      "name": "test",
+      "title": "test",
+      "publish_at": "2026-09-05T03:30:00+03:00",
+      "uploaded_at": "2026-09-04T07:36:48.827267+00:00",
+      "metadata_generated": true,
+      "metadata_provider": "local"
+    },
+    "1_8VuTFsLxtynqUKHtbs8OqFVyELNUo1u": {
+      "video_id": "test",
+      "name": "test",
+      "title": "test",
+      "publish_at": "2026-09-06T03:30:00+03:00",
+      "uploaded_at": "2026-09-05T00:43:58.891707+00:00",
+      "metadata_generated": true,
+      "metadata_provider": "local",
+      "description": "test",
+      "tags": [
+        "test",
+
+      ]
+    },
+    "1zIo9DQW__1RrJeRC_WqCMktpfVCVb4Wt": {
+      "video_id": "test",
+      "name": "test",
+      "title": "test",
+      "publish_at": "2026-09-07T03:30:00+03:00",
+      "uploaded_at": "2026-09-05T20:29:30.978167+00:00",
+      "metadata_generated": true,
+      "metadata_provider": "local",
+      "description": "test",
+      "tags": [
+        "test",
+
+      ]
+    }
+  },
+  "last_publish_at": "2026-09-07T03:30:00+03:00"
+}
